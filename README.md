@@ -4,11 +4,9 @@ Architecture diagram for SuRaksha Cyber Hackathon 2.0
 
 # TrustLens
 
-**Agentic Document Verification for Loan Underwriting**
+**Agentic Document Verification for Underwriting**
 
 TrustLens detects tampering, forgery, and inconsistency across documents submitted during loan underwriting — salary slips, bank statements, land records, and legal documents — in real time. Instead of a raw "fraud / not fraud" flag, it returns an underwriter-friendly risk report: a confidence score, the document image with suspicious regions highlighted, and a plain-English explanation with an Approve / Review / Reject recommendation.
-
-> Built for the SuRaksha Cyber Hackathon 2.0 — Theme: Real-time Anomaly Detection.
 
 ---
 
